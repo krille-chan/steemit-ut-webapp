@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Steemit
+Exec=webapp-container --webappUrlPatterns=https?://steemit.com/* https://steemit.com
+Icon=logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#FFFFFF
+Name[de_DE]=Steemit
