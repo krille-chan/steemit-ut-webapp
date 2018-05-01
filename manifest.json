@@ -4,7 +4,7 @@
     "architecture": "all",
     "title": "Steemit",
     "hooks": {
-        "DSound": {
+        "Steemit": {
             "apparmor": "Steemit.apparmor",
             "desktop":  "Steemit.desktop"
         }
